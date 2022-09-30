@@ -32,19 +32,6 @@ const questions = [
   },
   {
     type: "input",
-    name: "tableOfContents",
-    message: "List your table of contents: ",
-    validate: (your_Input) => {
-      if (your_Input) {
-        return true;
-      } else {
-        console.log("List those contents");
-        return false;
-      }
-    },
-  },
-  {
-    type: "input",
     name: "installation",
     message: "Describe the installation process if any: ",
     validate: (your_Input) => {
