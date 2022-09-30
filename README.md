@@ -14,12 +14,12 @@ I was tasked with creating a README generator so that a user can quickly create 
 ### Screenshot
 
 ​
-![This is a screenshot of the finished README]()
-​
+![This is a screenshot of the finished README](./Develop/sample%20video%20%26%20screenshots/Screen%20Shot%202022-09-29%20at%205.40.53%20PM.png)
+​![This is a screenshot of the finished README](./Develop/sample%20video%20%26%20screenshots/Screen%20Shot%202022-09-29%20at%205.42.23%20PM.png)
 
 ### Links
 
 ​
 
-- [Link to demonstration video]()
+- [Link to demonstration video](./Develop/sample%20video%20%26%20screenshots/Untitled_%20Sep%2029%2C%202022%205_17%20PM.mp4)
   ​
